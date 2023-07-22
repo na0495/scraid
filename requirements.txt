@@ -1,0 +1,3 @@
+twine
+scrapy
+fake_useragent
